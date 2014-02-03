@@ -14,9 +14,6 @@
  */
 
 
-#ifndef AWS_MULTI_FRAMEWORK
-#define AWS_MULTI_FRAMEWORK
-#endif
 
 #import "AmazonAbstractJsonWebServiceClient.h"
 #import "AmazonAbstractWebServiceClient.h"

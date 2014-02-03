@@ -14,9 +14,6 @@
  */
 
 
-#ifndef AWS_MULTI_FRAMEWORK
-#define AWS_MULTI_FRAMEWORK
-#endif
 
 #import "AmazonS3Client.h"
 #import "S3TransferManager.h"
